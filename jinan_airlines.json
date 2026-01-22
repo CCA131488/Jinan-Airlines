@@ -294,6 +294,13 @@
         "3534": {
             "name": "Airbus a320-214",
             "liveries": [
+                 {
+                    "name": "Jinan Airlines",
+                    "texture": [
+                        "https://raw.githubusercontent.com/CCA131488/Jinan-Airlines/refs/heads/main/liveries/Airbus_a320-214/jinan.png"
+                    ],
+                    "credits": "CP8888"
+                  }
             ],
             "labels": [
                 "Texture"
